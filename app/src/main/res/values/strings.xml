@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Czzuwlan</string>
+    <string name="saveInfo">保存信息</string>
+    <string name="autoAuth">自动</string>
+    <string name="authIt">认证</string>
+    <string name="ssid">ssid</string>
+</resources>
